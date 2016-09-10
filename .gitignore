@@ -1,0 +1,5 @@
+.DS_Store
+README.html
+*.sublime-workspace
+scrape/
+.ipynb_checkpoints/

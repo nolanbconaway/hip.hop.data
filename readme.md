@@ -11,3 +11,5 @@
 - **Ratio bar plot**: show the tag frequency / city population ratio for the top N cities.
 - **Ratio-by-year scatter**: show city popularity as a function of year.
 - **Possible missed location-based tags**. This is a data cleaning problem. For example, "bay.area" is a very popular tag, but is not in the list of cities.
+- **Decade-tags vs release years**. I noticed that "2010s" is the most popular tag, and "1980s" is also one of the most popular tags. How do these tags relate to the actual number of releases in each year?
+- **plotly fixes**: get rid of the hover toolbar.

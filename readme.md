@@ -3,7 +3,7 @@
 Need to decide on a report format! Options:
 
 - **Jupyter**. Pros: great integration with Github. Cons: plotting is terrible.
-- **Shiny R**. Pros: great, interactive plotting. Cons: no Github integration, Shiny R servers are super slow, wacky programming paradigm
+- **Shiny R**. Pros: great, interactive plotting. Cons: no Github integration, Shiny R servers are super slow, wacky programming paradigm.
 - **Rmarkdown**. Pros: OK Github integration (saves an HTML file), great plotting. Cons: unclear if these are easy to make in sublime.
 
 ##`data.db` contains:

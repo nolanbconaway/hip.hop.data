@@ -3,3 +3,4 @@ README.html
 *.sublime-workspace
 scrape/
 .ipynb_checkpoints/
+debug.py

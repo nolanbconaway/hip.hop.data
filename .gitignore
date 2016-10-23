@@ -1,6 +1,5 @@
 .DS_Store
 readme.html
 *.sublime-workspace
-scrape/
 .ipynb_checkpoints/
 debug.py

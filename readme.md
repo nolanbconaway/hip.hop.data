@@ -9,6 +9,5 @@ Anyway, these data are (i think) really interesting, so this repository will con
 
 Some things to update:
 
-- **What is the relationship between city population and hip hop per person?** Intuition: per person is low in smaller cities, large in mid-sized cities, but not much gains in very large cities.
 - **Linear regression**. Instead of simple ratios, show bar plot of each city's residual from the linear regression.
 - **Plotly fixes**: get rid of the hover toolbar. get rid of grid subplot printout.

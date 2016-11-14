@@ -9,7 +9,7 @@ Anyway, these data are (i think) really interesting, so this repository will con
 - [ [Link](http://nbviewer.jupyter.org/github/nolanbconaway/hip.hop.data/blob/master/hiphop-per-person.ipynb) ] **Which city makes the most hip hop, relative to its population?** 
 - [ [Link](http://nbviewer.jupyter.org/github/nolanbconaway/hip.hop.data/blob/master/coastal-timeline.ipynb) ] **Which coast (East, West, Third?) makes the most hip hop? What does the time-line look like?** 
 - [ [Link](http://nbviewer.jupyter.org/github/nolanbconaway/hip.hop.data/blob/master/mixtape-versus-album.ipynb) ] **When did mixtapes become so popular?** 
-- [ [Link](hiphop-per-person.ipynb) ] **Who is the most prolific artist in hip hop?** 
+- [ [Link](most-prolific-artists.ipynb) ] **Who is the most prolific artist in hip hop?** 
 
 
 Some things to update:
